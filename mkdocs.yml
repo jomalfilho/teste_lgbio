@@ -6,6 +6,13 @@ repo_url: https://github.com/jomalfilho/teste_lgbio
 edit_uri: edit/main/docs/
 use_directory_urls: false
 
+site_name: SERVIDOR LGBIO
+site_description: Documentação do Servidor LGBIO
+site_url: https://jomalfilho.github.io/teste_lgbio/
+repo_url: https://github.com/jomalfilho/teste_lgbio
+#repo_name: 
+edit_uri: edit/main/docs/
+
 theme:
   name: material
   language: pt-BR
