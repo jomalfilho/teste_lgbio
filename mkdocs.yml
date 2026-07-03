@@ -3,7 +3,7 @@ site_url: https://example.com
 theme:
   name: material
   language: pt-BR
-  #logo: assets/logo.png
+  logo: assets/logo2.png
   #favicon: assets/favicon.png
 
   palette:
@@ -26,20 +26,21 @@ theme:
 
   features:
     - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.sections
+    #- navigation.tabs.sticky
+    #- navigation.sections
     - navigation.top
-    - navigation.indexes
-    - navigation.footer
+    #- navigation.indexes
+    #- navigation.footer
     - search.highlight
     - search.suggest
     - search.share
     - content.code.copy
     - content.tabs.link
-    - toc.integrate # remove the "Table of contents" title and make the TOC sticky
+    #- toc.follow
+    - toc.integrate 
 
   #icon:
-   # repo: fontawesome/brands/github
+    #repo: fontawesome/brands/github
 
 # Carrega o CSS personalizado
 extra_css:
@@ -81,4 +82,4 @@ markdown_extensions:
 
 nav:
   - Início: index.md
-  - Contato: contato/index.md
+  - Contato: contato/index_contato.md

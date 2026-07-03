@@ -1,7 +1,7 @@
 # __SERVIDOR LGBIO__
 
-<p style="text-align: justify;">
-Bem-vindo(a) à Central do Servidor do LGBio! Este portal foi desenvolvido para reunir documentos, tutoriais e demais recursos que apoiam a utilização do servidor.
+<p style="text-align: center;">
+Bem-vindo(a) à Central do Servidor do LGBio! Este portal foi desenvolvido para reunir documentos, tutoriais e demais recursos de apoio para utilização do servidor.
 </p>
 
 ## :material-magnify: Central de recursos
@@ -14,15 +14,23 @@ Bem-vindo(a) à Central do Servidor do LGBio! Este portal foi desenvolvido para 
 
     Formulário para cadastramento no servidor.
 
-    :octicons-arrow-right-24: [Clique aqui](https://docs.google.com/forms/d/e/1FAIpQLSdaC-oZL2wf-Owz-EoLO1Wd2pPqDMe_FmZmfysz5CVPsEcLJQ/viewform?usp=header){ target="_blank" rel="noopener"}
+    :octicons-arrow-right-24: [Acessar](https://docs.google.com/forms/d/e/1FAIpQLSdaC-oZL2wf-Owz-EoLO1Wd2pPqDMe_FmZmfysz5CVPsEcLJQ/viewform?usp=header){ target="_blank" rel="noopener"}
 
 -   :material-book-open-variant:{ .lg .middle } __Manual do usuário__
 
     ---
 
-    Tudo o que você precisa para usar o terminal com confiança.  
+    Tudo o que você precisa para começar a usar o terminal com confiança.  
 
-    :octicons-arrow-right-24: [Começar](manual/index.md)
+    :octicons-arrow-right-24: [Acessar](manual/index_manual.md)
+
+-   :material-shield-check:{.lg .middle } __Boas Práticas__
+
+    ---
+
+    Diretrizes para uso saudável e eficiente do servidor.
+
+    :octicons-arrow-right-24: [Acessar](boas_praticas/index_boas_praticas.md)
 
 </div>
 
@@ -32,7 +40,17 @@ Bem-vindo(a) à Central do Servidor do LGBio! Este portal foi desenvolvido para 
     Profa. Renata de Oliveira Didas (UFG)  
     Prof. Rewther Nunes (UEG)  
     Héctor Antônio Assunção Romão (Doutorando PPGBM)  
-    Jomal Rodrigues Barbosa Filho (Técnico no LGBio)
+    Jomal Rodrigues Barbosa Filho (Técnico do LGBio)
+
+## :material-handshake: Apoio
+
+<p style="text-align: center;">
+O servidor de Bioinformática do Laboratório de Genética e Biodiversidade (LGBIO) da UFG foi adquirido e é mantido graças aos recursos do INCT EECBio.   
+</p>
+
+<p align="center">
+    <img src="assets/images/EECBio-logo3.png" alt="INCT EECBio" width="300">
+</p>
 
 <p style="text-align: center; font-size: 0.8em; color: var(--md-default-fg-color--light);">
 © 2026 LGBio • Universidade Federal de Goiás
