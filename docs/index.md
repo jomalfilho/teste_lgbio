@@ -1,26 +1,39 @@
-# SERVIDOR LGBIO
+# __SERVIDOR LGBIO__
 
-!! SITE EM CONSTRUÇÃO !! 
+<p style="text-align: justify;">
+Bem-vindo(a) à Central do Servidor do LGBio! Este portal foi desenvolvido para reunir documentos, tutoriais e demais recursos que apoiam a utilização do servidor.
+</p>
 
-## Manual do usuário do Servidor de Bioinformática do LGBIO
+## :material-magnify: Central de recursos
 
-O servidor de Bioinformática do Laboratório de Genética e Biodiversidade (LGBIO) da UFG foi adquirido e é mantido graças aos recursos do INCT EECBio.
+<div class="grid cards" markdown>
 
-###### Equipe de manutenção:
-###### Profa. Renata de Oliveira Didas (UFG)
-###### Prof Rewther Nunes (UEG)
-###### Héctor Antônio Assunção Romão (Doutorando PPGBM)
-###### Jomal Rodrigues Barbosa Filho (Técnico no LGBio)
-###### Contato: 
+-   :material-text-box-edit-outline:{ .lg .middle } __Formulário de cadastro__
 
-Este manual contém várias páginas que criamos para auxiliá-lo na sua jornada pela Bioinformática. Sinta-se à vontade para nos enviar sugestões e dúvidas, para que possamos melhorar ainda mais a nossa comunicação.
+    ---
 
-### Primeira vez no servidor?
+    Formulário para cadastramento no servidor.
 
-Você PRECISA começar lendo o nosso manual de boas práticas:
--adicionar página-
+    :octicons-arrow-right-24: [Clique aqui](https://docs.google.com/forms/d/e/1FAIpQLSdaC-oZL2wf-Owz-EoLO1Wd2pPqDMe_FmZmfysz5CVPsEcLJQ/viewform?usp=header){ target="_blank" rel="noopener"}
 
-Se você já leu o nosso manul, você pode acessar o nosso tutorial para fazer o seu primeiro acesso ao servidor do LGBIO:
--adicionar página-
+-   :material-book-open-variant:{ .lg .middle } __Manual do usuário__
 
+    ---
 
+    Tudo o que você precisa para usar o terminal com confiança.  
+
+    :octicons-arrow-right-24: [Começar](manual/index.md)
+
+</div>
+
+## :material-account-group: Equipe de manutenção
+
+!!! quote ""
+    Profa. Renata de Oliveira Didas (UFG)  
+    Prof. Rewther Nunes (UEG)  
+    Héctor Antônio Assunção Romão (Doutorando PPGBM)  
+    Jomal Rodrigues Barbosa Filho (Técnico no LGBio)
+
+<p style="text-align: center; font-size: 0.8em; color: var(--md-default-fg-color--light);">
+© 2026 LGBio • Universidade Federal de Goiás
+</p>

@@ -58,6 +58,10 @@
   display: flex !important;
 }
 
+.md-sidebar--secondary {
+  display: none;
+}
+
 /* Em telas pequenas, reduz a logo pra caber junto do hamburger */
 @media screen and (max-width: 76.234375em) {
   .md-header__button.md-logo img,
