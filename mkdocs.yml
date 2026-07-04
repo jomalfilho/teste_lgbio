@@ -1,4 +1,4 @@
-site_name: Servidor LGBIO
+site_name: SERVIDOR LGBIO
 site_url: https://example.com
 repo_url: https://github.com/jomalfilho/teste_lgbio
 repo_name: jomalfilho/teste_lgbio
@@ -8,8 +8,8 @@ use_directory_urls: false
 theme:
   name: material
   language: pt-BR
-  logo: assets/logo2.png
-  favicon: assets/favicon2.png
+  logo: assets/logo.png
+  favicon: assets/favicon.png
 
   palette:
     # Light mode
@@ -18,16 +18,16 @@ theme:
       primary: custom        # <- uses colors from docs/stylesheets/extra.css
       accent: custom
       toggle:
-        icon: material/brightness-7
-        name: change to dim mode
+        icon: material/brightness-4
+        name: mudar para modo escuro
     # Dim mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: custom
       accent: custom
       toggle:
-        icon: material/brightness-4
-        name: change to light mode
+        icon: material/brightness-7
+        name: mudar para modo claro
 
   features:
     - navigation.tabs

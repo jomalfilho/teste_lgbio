@@ -14,7 +14,7 @@ Bem-vindo(a) à Central do Servidor do LGBio! Este portal foi desenvolvido para 
 
     Formulário para cadastramento no servidor.
 
-    :octicons-arrow-right-24: [Acessar](https://docs.google.com/forms/d/e/1FAIpQLSdaC-oZL2wf-Owz-EoLO1Wd2pPqDMe_FmZmfysz5CVPsEcLJQ/viewform?usp=header){ target="_blank" rel="noopener"}
+    :octicons-arrow-right-24: [<u>Acessar</u>](https://docs.google.com/forms/d/e/1FAIpQLSdaC-oZL2wf-Owz-EoLO1Wd2pPqDMe_FmZmfysz5CVPsEcLJQ/viewform?usp=header){ target="_blank" rel="noopener"}
 
 -   :material-book-open-variant:{ .lg .middle } __Manual do usuário__
 
@@ -22,7 +22,7 @@ Bem-vindo(a) à Central do Servidor do LGBio! Este portal foi desenvolvido para 
 
     Tudo o que você precisa para começar a usar o terminal com confiança.  
 
-    :octicons-arrow-right-24: [Acessar](manual/index_manual.md)
+    :octicons-arrow-right-24: [<u>Acessar</u>](manual/index_manual.md)
 
 -   :material-shield-check:{.lg .middle } __Boas Práticas__
 
@@ -30,7 +30,7 @@ Bem-vindo(a) à Central do Servidor do LGBio! Este portal foi desenvolvido para 
 
     Diretrizes para uso saudável e eficiente do servidor.
 
-    :octicons-arrow-right-24: [Acessar](boas_praticas/index_boas_praticas.md)
+    :octicons-arrow-right-24: [<u>Acessar</u>](boas_praticas/index_boas_praticas.md)
 
 </div>
 
@@ -49,7 +49,11 @@ O servidor de Bioinformática do Laboratório de Genética e Biodiversidade (LGB
 </p>
 
 <p align="center">
-    <img src="assets/images/EECBio-logo3.png" alt="INCT EECBio" width="300">
+    <img src="assets/images/eecbio.png" alt="INCT EECBio" width="300">
+</p>
+
+<p style="text-align: right;font-size: 0.8em; color: var(--md-default-fg-color--light);">
+<a href="https://www.flaticon.com/free-icons/seo-and-web" title="seo and web icons">Seo and web icons created by iconixar - Flaticon</a>
 </p>
 
 <p style="text-align: center; font-size: 0.8em; color: var(--md-default-fg-color--light);">
